@@ -1,8 +1,8 @@
 .footer__link {
     width: max-content;
-    text-decoration: none;
+   text-decoration: none;
     margin: 0;
-    color: #fff;
+    
 
 }
 
@@ -10,3 +10,4 @@
     transition: 0.7s;
     opacity: 0.9;
 }
+   
