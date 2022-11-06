@@ -7,6 +7,16 @@
     list-style-type: none;
     column-gap: 18px;
     max-width: 605px;
-    text-decoration: none;
     
+    
+}
+
+@media screen and (max-width: 544px) {
+   .footer__links {
+    flex-direction: column;
+    font-size: 24px;
+    line-height: 24px;
+    row-gap: 32px;
+    
+   } 
 }

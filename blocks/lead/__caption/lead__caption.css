@@ -5,10 +5,10 @@
     padding-top: 8px;
     text-transform: uppercase;
     letter-spacing: 1.5px;
-    
+
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1020px) {
     .lead__caption {
         padding-left: 48px;
     }
