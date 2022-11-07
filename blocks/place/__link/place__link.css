@@ -7,6 +7,6 @@
 }
 
 .place__link:hover {
-    opacity: 0.9;
+    opacity: 0.8;
     transition: 0.6s;
 }
